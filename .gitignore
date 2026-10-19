@@ -1,0 +1,14 @@
+# IntelliJ/PyCharm project files
+.idea
+*.iml
+out
+gen
+.venv
+
+# Build files
+build
+.gradle
+
+# Project specific
+steam_appid.txt
+latest-crash.log
